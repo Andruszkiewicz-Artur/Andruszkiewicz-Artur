@@ -15,17 +15,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-<p align="center"> 
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andruszkiewicz-artur&count_private=true&show_icons=true&theme=dark" alt="andruszkiewicz-artur"/>
-  
-  
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=andruszkiewicz-artur&theme=dark&count_private=true" alt="andruszkiewicz-artur"/>
-  
-</p>
+<h3 align="left">Github state: </h3>
 
-<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=andruszkiewicz-artur&count_private=true&show_icons=true&theme=dark" alt="andruszkiewicz-artur"/>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andruszkiewicz-artur&layout=donut&theme=dark" alt="andruszkiewicz-artur" />
-  
-</p>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=andruszkiewicz-artur&theme=dark&count_private=true" alt="andruszkiewicz-artur"/>
