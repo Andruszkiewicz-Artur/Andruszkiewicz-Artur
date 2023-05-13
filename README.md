@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Artur</h1>
 <p align="justify">
-  Hi! I am an experienced Android/iOS developer with 2 years of experience in developing mobile applications. I always try to be up to date with the latest trends and technologies in the field of mobile application development.
-  I have a solid knowledge of programming in Kotlin for Android and Swift for iOS. I worked and dealt with the implementation of the project from scratch.
-  My skills include designing and implementing applications from scratch, including both user interface and business logic. I always try to create applications with efficiency, scalability and usability for users in mind.
+  Hi! I am an experienced Android/iOS developer with 2 years of experience in developing mobile applications. I always try to be up to date with the latest trends and technologies in the field of mobile application development.<br><br>
+  I have a solid knowledge of programming in Kotlin for Android and Swift for iOS. I worked and dealt with the implementation of the project from scratch.<br><br>
+  My skills include designing and implementing applications from scratch, including both user interface and business logic. I always try to create applications with efficiency, scalability and usability for users in mind.<br><br>
   I am open to cooperation in creating mobile applications for various industries, such as e-commerce, education, health and fitness or entertainment. Feel free to contact me!
 </p>
 
@@ -15,11 +15,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andruszkiewicz-artur&theme=nord_dark" alt="andruszkiewicz-artur" /></p>
-
 <p align="center"> 
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andruszkiewicz-artur&count_private=true&show_icons=true&theme=dark" alt="andruszkiewicz-artur"/>
+  
+  
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=andruszkiewicz-artur&theme=dark&count_private=true" alt="andruszkiewicz-artur"/>
+  
+</p>
+
+<p align="center">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andruszkiewicz-artur&layout=donut&theme=dark" alt="andruszkiewicz-artur" />
   
