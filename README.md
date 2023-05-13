@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Artur</h1>
-<h4>
-  Hi! I am an experienced Android/iOS developer with 2 years of experience in developing mobile applications. I always try to be up to date with the latest trends and technologies in the field of mobile application development.</br></br>
-  I have a solid knowledge of programming in Kotlin for Android and Swift for iOS. I worked and dealt with the implementation of the project from scratch.</br></br>
-  My skills include designing and implementing applications from scratch, including both user interface and business logic. I always try to create applications with efficiency, scalability and usability for users in mind.</br></br>
+<p align="justify">
+  Hi! I am an experienced Android/iOS developer with 2 years of experience in developing mobile applications. I always try to be up to date with the latest trends and technologies in the field of mobile application development.
+  I have a solid knowledge of programming in Kotlin for Android and Swift for iOS. I worked and dealt with the implementation of the project from scratch.
+  My skills include designing and implementing applications from scratch, including both user interface and business logic. I always try to create applications with efficiency, scalability and usability for users in mind.
   I am open to cooperation in creating mobile applications for various industries, such as e-commerce, education, health and fitness or entertainment. Feel free to contact me!
-</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andruszkiewicz-artur&label=Profile%20views&color=0e75b6&style=flat" alt="andruszkiewicz-artur" /> </p>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
