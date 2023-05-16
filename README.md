@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Artur</h1>
+<h1 align="center">Hello 👋</br>I'm Artur</h1>
 <p align="justify">
   Hi! I am an experienced Android/iOS developer with 2 years of experience in developing mobile applications. I always try to be up to date with the latest trends and technologies in the field of mobile application development.<br><br>
   I have a solid knowledge of programming in Kotlin for Android and Swift for iOS. I worked and dealt with the implementation of the project from scratch.<br><br>
@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arturandrusz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arturandrusz" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/arturandrusz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arturandrusz" height="30" width="40" /></a> -->
 <a href="https://instagram.com/_ahtii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ahtii_" height="30" width="40" /></a>
 </p>
 
