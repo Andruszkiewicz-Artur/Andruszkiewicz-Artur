@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋</br>I'm Artur</h1>
 <p align="justify">
-  Hi! I am an experienced Android/iOS developer with 2 years of experience in developing mobile applications. I always try to be up to date with the latest trends and technologies in the field of mobile application development.<br><br>
+  Hi! I am an experienced Android developer with 2 years of experience in developing mobile applications. I always try to be up to date with the latest trends and technologies in the field of mobile application development.<br><br>
   I have a solid knowledge of programming in Kotlin for Android and Swift for iOS. I worked and dealt with the implementation of the project from scratch.<br><br>
   My skills include designing and implementing applications from scratch, including both user interface and business logic. I always try to create applications with efficiency, scalability and usability for users in mind.<br><br>
   I am open to cooperation in creating mobile applications for various industries, such as e-commerce, education, health and fitness or entertainment. Feel free to contact me!
