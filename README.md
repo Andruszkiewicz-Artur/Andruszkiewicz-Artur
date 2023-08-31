@@ -21,5 +21,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=andruszkiewicz-artur&count_private=true&show_icons=true&theme=dark" alt="andruszkiewicz-artur"/>
   
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=andruszkiewicz-artur&theme=dark&count_private=true" alt="andruszkiewicz-artur"/>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=andruszkiewicz-artur&label=Profile%20views&color=0e75b6&style=flat" alt="andruszkiewicz-artur" /> </p>
