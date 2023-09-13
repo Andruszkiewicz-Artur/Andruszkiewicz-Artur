@@ -6,7 +6,10 @@
   I am open to cooperation in creating mobile applications for various industries, such as e-commerce, education, health and fitness or entertainment. Feel free to contact me!
 </p>
 
-<p><b>Apps presentation and description: </b> <a href = "https://youtu.be/n88d5V81B0M">link to playlist on youtube</a></p>
+<p>
+  <h3 align="left">Apps presentation and description:</h3>
+  <a href = "https://youtu.be/n88d5V81B0M">link to playlist on youtube</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
