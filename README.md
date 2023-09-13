@@ -6,6 +6,8 @@
   I am open to cooperation in creating mobile applications for various industries, such as e-commerce, education, health and fitness or entertainment. Feel free to contact me!
 </p>
 
+<p><b>Apps presentation and description: </b> <a href = "https://youtu.be/n88d5V81B0M">link to playlist on youtube</a></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/arturandrusz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arturandrusz" height="30" width="40" /></a> -->
