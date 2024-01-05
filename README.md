@@ -1,24 +1,34 @@
-<h1 align="center">Hello 👋</br>I'm Artur</h1>
+<h1 align="center">👋 Hello, I'm Artur 👋</h1>
+
+<h3 align="left" style="font-size: 32">😄 About me 🙃</h3>
 <p align="justify">
-  Hi! I am an experienced Android developer with 3 years of experience in developing mobile applications. I always try to be up to date with the latest trends and technologies in the field of mobile application development.<br><br>
-  I have a solid knowledge of programming in Kotlin for Android and Swift for iOS. I worked and dealt with the implementation of the project from scratch.<br><br>
-  My skills include designing and implementing applications from scratch, including both user interface and business logic. I always try to create applications with efficiency, scalability and usability for users in mind.<br><br>
-  I am open to cooperation in creating mobile applications for various industries, such as e-commerce, education, health and fitness or entertainment. Feel free to contact me!
+  👨🏻‍🎓 I'm 24 years. I completed my engineering studies and started my master's studies. 
+  </br>
+  👨🏻‍💻 I`m previously worked as a robotics teacher, and currently I work as an iOS and Android developer as a freelancer.
+  <br/>
+  📱 I create projects for Android and iOS systems natively and I am learning how to create projects for two systems in KMM.
+  </br>
+  🥰 Apart from IT, I am interested in psychology 🧐, economics 💹 and personal development ⚙️.
+  </br>
 </p>
+
+<h3 align="left">📖 What I'm currently learning 🔭</h3>
+
+<ul>
+  <li>Connecting with api via ktor in kmm</li>
+  <li>Sharing compose in kmm</li>
+  <li>Making local database</li>
+  <li>Implementation paying in kmm project</li>
+</ul>
 
 <p>
-  <h3 align="left">Apps presentation and description:</h3>
-  <a href = "https://youtu.be/n88d5V81B0M">link to playlist on youtube</a>
+  <h3 align="left">🎬 Apps presentation and description 🎞️</h3>
+  <a href="https://youtu.be/n88d5V81B0M" target="_blank" rel="noreferrer">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogolook.net%2Fwp-content%2Fuploads%2F2021%2F06%2FSymbol-Youtube.png&f=1&nofb=1&ipt=5558cea9414fb68665e0165fe6e35176f1a664caeb18036a2995dfaed954006d&ipo=images" alt="android" width="80" height="40"/> 
+  </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/arturandrusz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arturandrusz" height="30" width="40" /></a> -->
-<a href="https://instagram.com/_ahtii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ahtii_" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/22128271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22128271" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">📚 Languages and Tools 🛠️</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Github state: </h3>
