@@ -16,8 +16,8 @@
 
 <ul>
   <li>Connecting with api via ktor in kmm</li>
-  <li>Sharing compose in kmm</li>
-  <li>Making local database</li>
+  <li>Navigation in KMM</li>
+  <li>Adding firebase in KMM</li>
   <li>Implementation paying in kmm project</li>
 </ul>
 
