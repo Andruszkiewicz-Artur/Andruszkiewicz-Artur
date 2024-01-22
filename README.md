@@ -15,9 +15,7 @@
 <h3 align="left">📖 What I'm currently learning 🔭</h3>
 
 <ul>
-  <li>Connecting with api via ktor in kmm</li>
-  <li>Navigation in KMM</li>
-  <li>Adding firebase in KMM</li>
+  <li>Firebase in KMM</li>
   <li>Implementation paying in kmm project</li>
 </ul>
 
