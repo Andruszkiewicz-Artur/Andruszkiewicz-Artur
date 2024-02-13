@@ -15,8 +15,7 @@
 <h3 align="left">📖 What I'm currently learning 🔭</h3>
 
 <ul>
-  <li>Firebase in KMM</li>
-  <li>Implementation paying in kmm project</li>
+  <li>Working with nfc</li>
 </ul>
 
 <p>
